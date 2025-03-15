@@ -1,0 +1,1 @@
+Select * from transactions_summary
